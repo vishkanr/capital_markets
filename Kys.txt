@@ -1,0 +1,6 @@
+aws-CLI - 
+Secret access key
+Kz2JMQSH9E4Sdm0U75ctgl2bjM5zWFTBj1rIzY8g
+
+Access key ID
+AKIATVXBZYC5VOV4GMWT

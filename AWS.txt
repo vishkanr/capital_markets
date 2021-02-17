@@ -1,0 +1,12 @@
+AWS IAM user Root
+https://252802875579.signin.aws.amazon.com/console
+
+AWS IAM user anish - 
+https://252802875579.signin.aws.amazon.com/console
+
+ec2 key pair name - 
+lseg_capital_markets
+
+s3 bucket name - 
+lsegcapitalmarkets
+
